@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-// TODO: Follow instructions in the checkpoint to implement ths API.
+// TODO: Follow instructions in the checkpoint to implement the API.
 
 const pastes = require("./data/pastes-data");
 
